@@ -18,7 +18,7 @@ eureka:
       
 info:
   app.name: microcloud-config-client-dev
-  company.name: zhangxin
+  company.name: zhangxin22222
   
 ---
 server:
