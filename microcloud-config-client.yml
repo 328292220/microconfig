@@ -18,7 +18,7 @@ eureka:
       
 info:
   app.name: microcloud-config-client-dev
-  company.name: enjoy
+  company.name: zhangxin
   
 ---
 server:
@@ -36,4 +36,4 @@ eureka:
       
 info:
   app.name: microcloud-config-client-dev
-  company.name: enjoy
+  company.name: zhangxin
