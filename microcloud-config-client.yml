@@ -18,7 +18,7 @@ eureka:
       
 info:
   app.name: microcloud-config-client-dev
-  company.name: 修改了1111
+  company.name: 修改了2222
   
 ---
 server:
