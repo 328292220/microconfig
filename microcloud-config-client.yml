@@ -17,8 +17,8 @@ eureka:
       defaultZone: http://admin:zhangxin@localhost:7001/eureka
       
 info:
-  name: microcloud-config-client-dev
-#  company.name: zhangxin
+  app.name: microcloud-config-client-dev
+  company.name: zhangxin
   
 ---
 server:
